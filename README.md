@@ -16,11 +16,8 @@ Building automation systems, digital products, and practical AI tools that make 
 
 ## 🧩 Current Projects
 
-### 🔧 Hegna Labs  
+### 🔧 HegnaDigitalSolutions  
 Building practical AI tools and micro‑products that solve real problems for real people.
-
-### 🎨 CareerQuips Creative  
-Crafting automated content systems for job seekers, creators, and small businesses.
 
 ### 🖼️ Finished_Room.Studio  
 An AI-powered interior art generator that creates **room-specific artwork** based on user-submitted photos.  
